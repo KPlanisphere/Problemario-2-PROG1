@@ -26,18 +26,18 @@
 
 8.	Escriba un programa que calcule la nómina semanal (salario neto) de un trabajador de una 
 	empresa cuyo trabajo se paga por horas. Introduzca por teclado el numero de horas y el 
-	precio de la hora. El calculo se realiza del siguiente modo: 
-		-	Las primeras 35 horas se pagan a la tarifa normal 
-		-	Las horas extras se pagan un 50% más que las normales. 
-		-	Los impuestos a deducir a los trabajadores varían en función de su sueldo mensual. 
-			i-		Si el sueldo es menor de 600 pesos, libre de impuestos 
-			ii-		Si el sueldo esta entre 600 pesos y 1000 pesos, los impuestos son el 20% 
-			iii-	Si el sueldo es mayor de 1000 pesos, el 30% 
+	precio de la hora. El calculo se realiza del siguiente modo: <br>
+		-	Las primeras 35 horas se pagan a la tarifa normal <br> 
+		-	Las horas extras se pagan un 50% más que las normales. <br> 
+		-	Los impuestos a deducir a los trabajadores varían en función de su sueldo mensual. <br> 
+			i-		Si el sueldo es menor de 600 pesos, libre de impuestos <br>
+			ii-		Si el sueldo esta entre 600 pesos y 1000 pesos, los impuestos son el 20% <br> 
+			iii-	Si el sueldo es mayor de 1000 pesos, el 30% <br>
 
 9.	En una empresa cada empleado debe teclear un código identificador de 3 cifras en la 
 	entrada. Escriba un programa que muestre por pantalla la categoría del empleado teniendo 
-	en cuenta que: 
-		-	Si el código es divisible por 2, por 3 y por 5, la categoría del empleado es “Director General”. 
-		-	Si el código es divisible por 3 y por 5 pero no por 2, la categoría del empleado es “Directivo”. 
-		-	Si el código es divisible por 2, pero no por 3 ni por 5, la categoría del empleado es “Staff”. 
-		-	Si el código no es divisible por 2, ni por 3 ni por 5, la categoría del empleado es “Seguridad”.
+	en cuenta que: <br>
+		-	Si el código es divisible por 2, por 3 y por 5, la categoría del empleado es “Director General”. <br>
+		-	Si el código es divisible por 3 y por 5 pero no por 2, la categoría del empleado es “Directivo”. <br>
+		-	Si el código es divisible por 2, pero no por 3 ni por 5, la categoría del empleado es “Staff”. <br>
+		-	Si el código no es divisible por 2, ni por 3 ni por 5, la categoría del empleado es “Seguridad”.<br>
