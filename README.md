@@ -1,5 +1,5 @@
 # Estructuras de Decisión
-## Problemario 1 - Programacion 1
+## Problemario 2 - Programacion 1
 
 1.	Calcule el mayor de cuatro números enteros introducidos por el teclado 
 
